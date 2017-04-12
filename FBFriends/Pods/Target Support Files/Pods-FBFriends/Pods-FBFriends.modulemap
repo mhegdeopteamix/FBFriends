@@ -1,0 +1,6 @@
+framework module Pods_FBFriends {
+  umbrella header "Pods-FBFriends-umbrella.h"
+
+  export *
+  module * { export * }
+}
